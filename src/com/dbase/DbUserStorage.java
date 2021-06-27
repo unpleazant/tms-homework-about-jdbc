@@ -1,8 +1,8 @@
 package com.dbase;
 
-import com.dbase.models.Address;
-import com.dbase.models.PhoneNumber;
-import com.dbase.models.User;
+import com.dbase.entity.Address;
+import com.dbase.entity.PhoneNumber;
+import com.dbase.entity.User;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

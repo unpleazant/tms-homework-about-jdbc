@@ -1,4 +1,4 @@
-package com.dbase.models;
+package com.dbase.entity;
 
 public class Address {
     private int id;
